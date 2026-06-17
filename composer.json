@@ -1,0 +1,36 @@
+{
+    "name": "storetown/module-b2b-register",
+    "description": "Commercial Magento 2 B2B customer registration extension — admin approval workflow, custom fields (company, VAT-ID), customer-group automation, 3 modes (B2B+B2C / B2B-only / B2C-only), email notifications, reCAPTCHA, 7 languages. Module source delivered after purchase.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "homepage": "https://www.storetown-media.de/stm-b2b-register/",
+    "keywords": [
+        "magento2",
+        "magento-2",
+        "b2b",
+        "b2b-registration",
+        "customer-registration",
+        "admin-approval",
+        "vat-id",
+        "company-account",
+        "hyva",
+        "adobe-commerce",
+        "magento-extension"
+    ],
+    "authors": [
+        {
+            "name": "Storetown-Media",
+            "homepage": "https://www.storetown-media.de",
+            "role": "Vendor"
+        }
+    ],
+    "support": {
+        "email": "info@storetown-media.de",
+        "source": "https://github.com/storetown-media/stm-magento-2-b2b-customer-registration",
+        "docs": "https://www.storetown-media.de/stm-b2b-register/",
+        "issues": "https://github.com/storetown-media/stm-magento-2-b2b-customer-registration/issues"
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
