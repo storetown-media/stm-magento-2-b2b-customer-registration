@@ -5,7 +5,7 @@
 ### B2B-Kundenfreischaltung mit Admin-Approval-Workflow
 
 [![Commercial](https://img.shields.io/badge/License-Commercial%20Closed--Source-red?style=flat-square)](#license)
-[![Magento](https://img.shields.io/badge/Magento-2.4.x-EE672F?style=flat-square&logo=magento)](#kompatibilit%C3%A4t)
+[![Magento](https://img.shields.io/badge/Magento-2.4.x_bis_2.4.9-EE672F?style=flat-square&logo=magento)](#kompatibilit%C3%A4t)
 [![PHP](https://img.shields.io/badge/PHP-8.1%E2%80%938.4-777BB4?style=flat-square&logo=php)](#kompatibilit%C3%A4t)
 [![Hyvä](https://img.shields.io/badge/Hyv%C3%A4-Compatible-FF6B35?style=flat-square)](https://www.hyva.io/)
 [![Reviews](https://img.shields.io/badge/Reviews-4.88%E2%98%85%20%2F%204-yellow?style=flat-square)](https://www.storetown-media.de/stm-b2b-register/)
@@ -73,7 +73,7 @@ Alle Editionen: **One-Time Purchase** · 12 Monate Produktaktualisierungen · Pr
 
 | Anforderung | Details |
 |---|---|
-| **Magento** | 2.4.x (Open Source + Adobe Commerce + Cloud) |
+| **Magento** | 2.4.x inkl. 2.4.9 (Open Source + Adobe Commerce + Cloud) |
 | **PHP** | 8.1 · 8.2 · 8.3 · 8.4 |
 | **Themes** | Hyvä · Luma · Porto · Ultimo |
 | **Installation** | Composer (empfohlen) oder ZIP |
